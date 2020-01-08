@@ -1,0 +1,24 @@
+• What is the definition of server port?
+- At the software level, within an operating system, a port is a logical 
+construct that identifies a specific process or a type of network service.
+Ports are identified for each protocol and address combination by 16-bit 
+unsigned numbers, commonly known as the port number.
+
+• What is server port range?
+- 0 to 65535
+
+• How many bits does number above represent?
+- 16 bit
+
+• State 10 common server ports
+-  
+  67, 68 - DHCP
+  20, 21 - FTP
+  22	 - SSH
+  80	 - HTTP
+  25	 - SMTP
+  443	 - HTTPS
+  23	 - TELNET
+  143	 - IMAP
+  3389   - RDP
+  53	 - DNS
