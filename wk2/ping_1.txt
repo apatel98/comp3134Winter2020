@@ -1,0 +1,1 @@
+64 bytes from yyz12s04-in-f14.1e100.net (172.217.164.206): icmp_seq=1 ttl=58 time=1.84 ms

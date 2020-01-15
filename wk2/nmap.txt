@@ -1,0 +1,49 @@
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:37 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.00048s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap done: 1 IP address (1 host up) scanned in 18.35 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:41 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0017s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+
+PORT   STATE    SERVICE
+90/tcp filtered dnsix
+
+Nmap done: 1 IP address (1 host up) scanned in 0.53 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:42 UTC
+Nmap scan report for twitter.com (104.244.42.1)
+Host is up (0.028s latency).
+Other addresses for twitter.com (not scanned): 104.244.42.193
+Not shown: 90 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.00 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:43 UTC
+Nmap scan report for instagram.com (3.216.235.82)
+Host is up (0.034s latency).
+Other addresses for instagram.com (not scanned): 3.212.252.134 3.218.3.143 3.223.142.250 3.229.97.56 3.219.212.26 3.217.121.130 3.214.32.78 2406:da00:ff00::22ed:c8d5 2406:da00:ff00::22ec:a316 2406:da00:ff00::3400:260d 2406:da00:ff00::23aa:92f5 2406:da00:ff00::22c4:e59e 2406:da00:ff00::23ad:a7fd 2406:da00:ff00::23ab:d2d7 2406:da00:ff00::22e4:eae3
+rDNS record for 3.216.235.82: ec2-3-216-235-82.compute-1.amazonaws.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.70 seconds

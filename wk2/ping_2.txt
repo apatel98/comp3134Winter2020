@@ -1,0 +1,10 @@
+Pinging 138.197.171.160 with 32 bytes of data:
+Reply from 138.197.171.160: bytes=32 time=21ms TTL=58
+Reply from 138.197.171.160: bytes=32 time=119ms TTL=58
+Reply from 138.197.171.160: bytes=32 time=4ms TTL=58
+Reply from 138.197.171.160: bytes=32 time=4ms TTL=58
+
+Ping statistics for 138.197.171.160:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 119ms, Average = 37ms

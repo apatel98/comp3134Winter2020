@@ -1,0 +1,19 @@
+Domain Name: google.com
+IP Address: 172.217.7.14
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+Domain Name: georgebrown.ca
+IP Address: 198.96.86.202
+Geolocation: CA (Canada), ON, Ontario, M5T Toronto
+
+Domain Name: cloud.digitalocean.com
+IP Address: 104.16.25.4
+Geolocation: US (United States), N/A, N/A, N/A N/A
+
+Domain Name: gmail.com
+IP Address: 172.217.10.69
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+Domain Name: outlook.com
+IP Address: 40.97.164.146
+Geolocation: US (United States), IA, Iowa, 50307 Des Moines
