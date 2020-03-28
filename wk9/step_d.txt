@@ -1,0 +1,4 @@
+ 1: no information displayed because it looks for the directory name "hello" which does not exist.
+
+ 2: no sensitive information displayed by this page.
+

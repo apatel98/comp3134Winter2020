@@ -1,0 +1,7 @@
+ 1: the definition of the word is displayed on the page.
+
+2: the webpage displayed "No results found"
+
+3: the webpage searched other categories in the website "dictionary.com" for other results.
+
+4: same result as above

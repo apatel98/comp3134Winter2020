@@ -1,0 +1,6 @@
+1: the folder html is displayed (our path is /var/www) 
+which is the default root folder of the web server.
+
+2: this folder contains all the files which are not served by the apache web server 
+(files can be logs or code which is not ready for production).
+

@@ -1,0 +1,2 @@
+we need to add "echo" to all our heading tags so the php interpreter can display our headings 
+and for the comments we can just convert them from html comment ("<!-- -->") to php comment ("#" or "//").

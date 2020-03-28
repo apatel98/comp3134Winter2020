@@ -1,0 +1,7 @@
+
+We can first get what path the user requested using basename() function which returns only the filename part of a given path/filename: which means basename("../../../etc/passwd") will become: passwd, then check if the directory exists using (file_exists) method.
+
+bonus
+
+
+We can strip the position of the dot which was passed in the url as file extension (index.php) the dot is our needle in this case and if it exists then we set the header to forbidden.

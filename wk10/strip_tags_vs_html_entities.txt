@@ -1,0 +1,4 @@
+
+htmlentities(): just converts the tags to plain text and displays it in the browser.
+
+strip_tags(): removes all the tags from the string. 
