@@ -1,0 +1,8 @@
+Step 1: ssh droplet_username@droplet_IP
+Step 2: Using command: date +%Y%m%d_%H%M to create the date part of file, copy it to clipboard
+Step 3: Command: touch all_traffic_(the date copied in step 2)
+Step 4: Run: sudo tcpdump -i any -c10 -nn -w all_traffic_YYYYMMDD_HHMM
+        # The command above will stop if you captured 10 packet
+If you wish to capture as many packets as you can try:
+sudo tcpdump -i any -nn -w all_traffic_YYYYMMDD_HHMM
+

@@ -1,0 +1,2 @@
+When output the content of storedxss.txt, since the content of the text file contains
+<script></script> tag, it will be automatically moved to the head part of HTML file

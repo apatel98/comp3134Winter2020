@@ -1,0 +1,15 @@
+<h1>Thong Nguyen</h1>
+<form onsubmit="display()">
+<input id="name" type="text" name="name">
+<button type="submit" name="submit">Submit</button>
+</form>
+<div class="output">
+
+</div>
+<script>
+    const display = () => {
+        event.preventDefault();
+        const text = document.getElementById('name').value;
+        document.querySelector(".output").innerHTML = text;
+    }
+</script>

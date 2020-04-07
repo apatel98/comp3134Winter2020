@@ -1,0 +1,8 @@
+# Note week 7
+- DNS Server Hijacking
+- Also known as DNS redirection
+- When attacker gains access to Domain Name Server (DNS)
+- Significance / Risks
+- Mitigation Methods
+	Immediately patch known vulnerabilities
+	Severely restrict access to name server
