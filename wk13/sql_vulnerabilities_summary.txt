@@ -1,0 +1,4 @@
+
+1. Just the column headers appeared No data shown. 
+
+2. It shows the following warning message: "mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given"
